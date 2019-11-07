@@ -1,0 +1,10 @@
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe.config
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.pdb
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csprojAssemblyReference.cache
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.FromScSaver.resources
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.Properties.Resources.resources
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csproj.GenerateResource.cache
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.exe
+C:\Users\sagrawal\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.pdb
