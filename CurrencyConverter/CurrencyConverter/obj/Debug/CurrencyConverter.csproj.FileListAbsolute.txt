@@ -1,0 +1,10 @@
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\sagrawal\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.currencyConvert.resources
