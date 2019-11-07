@@ -1,0 +1,10 @@
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\sagrawal\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
