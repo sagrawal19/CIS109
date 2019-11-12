@@ -1,0 +1,10 @@
+C:\Users\sagrawal\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\sagrawal\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\sagrawal\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\sagrawal\source\repos\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\sagrawal\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\sagrawal\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\sagrawal\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\sagrawal\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\sagrawal\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\sagrawal\source\repos\calculator\calculator\obj\Debug\calculator.pdb
